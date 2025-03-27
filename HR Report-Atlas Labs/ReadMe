@@ -1,1 +1,27 @@
+About the Project
+1.	Motive of the Project: The goal of this case study is to build a report using fictitious datasets from a Tech company called Atlas Labs. Atlas Labs HR team want to be able to monitor key metrics on employees. Their secondary goal is to understand what factors impact employee attrition. In this case study, using the Kimball Model approach we will be working with facts and dimensions to build our model. This is the central point of our snowflake schema.
 
+2.	Advanced Data Modelling: DAX Measures & Power Query Integration. This project explores the efficient use of DAX measures and Power Query for data transformation, modelling, and analysis within Power BI. It aims to enhance data processing capabilities by leveraging DAX for dynamic calculations and Power Query for data extraction, cleansing, and transformation.
+
+3.	Analysis: Focusing on Understanding Atlas Labs Diversity & Inclusion metrics and building a report page to track Individual Employee Performance Reviews, finding Key Insights, Demographics Analysis, Hiring Trends, Department and Job role Analysis, Attrition Rate, Factors Affecting Attrition.
+
+4.	Conclusion:
+
+Home Page 
+•	Top 3 Attrition Years are 2020 with 28 Employees, 2022 with 25 Employees, 2016 with 24 Employees Overall.
+•	 In Technology Department Top 3 Job Roles are: Software Engineer (247), Data Scientist (199), Machine Learning Engineer (136).
+•	In Sales Department, Top 3 Job Roles are: Sales Executive (269), Sales Representative (50), Sales Manager (35).
+•	In HR Department, Top 3 Job Roles are: HR Executive (25), HR Recruiter (15), HR Partner (7).
+Demographics
+•	Most of the Employees fall in the Age Bracket of 20-29 (874 Employees).
+•	Top 3 Ethnicity of the Employees are White (860), Black or African American (207), Mixed or Multiple Groups (198).
+•	Whites have the Highest Avg Salary of $1,15,317 amongst all ethnicity.
+•	Age Bracket 30-39 is where there are more Females than Males Overall. Age Bracket 20 < is where there are more Females than Males in White Ethnicity.
+Performance Analysis  
+•	This Page is Useful for the HR Managers During the time of appraisals and criticism as this provides us the Visual Performance Analysis for each employee, by showing Yearly Ratings and Satisfaction analysis.
+Attrition Rate  
+•	Attrition by Overtime in the HR Department is the lowest amongst all the other Departments with just 65.9% percentage of the overall HR Department.
+•	The Attrition Rate in the HR Department has significantly declined since 2014, dropping from an all-time high of 50% in 2014 to 20% in 2015.
+•	People who are “Frequent Travelers” are the ones who experience the higher Attrition. 
+•	Sales Department has the Highest Attrition Rate of 20.6% whereas the Technology Department has the lowest with 13.8% Attrition Rate.
+•	Although the Sales Department has the highest overall attrition rate, employees with less than two years of tenure account for the majority of departures, keeping the attrition rate above 25% only within this group. In contrast, in the HR Department, attrition remains above 25% for employees with less than six years of service. This indicates that, despite the higher overall attrition rate in Sales, HR employees are more likely to leave over a longer tenure span.
