@@ -1,1 +1,13 @@
-
+I have created an MYSQL Script where I tried getting the insights of a database which I have downloaded online. Some of the questions which I thought that would be necessary to look upon and take actions accordingly. After that I have created and Power BI dashboard where I am visualizing the data for a better visual understanding. Below will be the link to the project and any recommendations for upgrading the level of project/ or any other insights which you might thing would be useful to get are apricated.
+Project Link: https://lnkd.in/gDWp6R6S.
+Insight Questions:
+--to check what is the most used shipmode and how many times it has been used.
+-- to check the most used customer segment orders comming from.
+-- most to least sold product/sub product category order by region
+-- top to bottom most sales done region wise less return orders.
+-- descending wise top revenue generating states.
+-- most and least ordering customer with quantity and sales figure with profit.
+-- period where the most orders where returned region wise.
+-- order priority on the basis of region, state.
+-- order priority on the basis of the customer_ID.
+-- most and least sales done in a month/ STATE/ REGION/ PRODUCTS/ SUB_PRODUCT Wise.
